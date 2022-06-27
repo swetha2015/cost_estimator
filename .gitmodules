@@ -1,0 +1,3 @@
+[submodule "example-terraform"]
+	path = example-terraform
+	url = https://github.com/infracost/example-terraform
